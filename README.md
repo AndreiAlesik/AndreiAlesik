@@ -7,7 +7,7 @@ A progressive IT student of Poznan University of Technology with specialization 
 
 ---
 
-### 🛠 &nbsp;My Skills :
+### &nbsp;My Skills :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
