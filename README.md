@@ -7,7 +7,7 @@ I am an ambitious Software Developer <img src="https://media.giphy.com/media/WUl
 
 - 🔭 I’m working as a Java Developer at Capgemini.
 - 🌱 I'm currently learning AWS, AI/ML and Blockchain.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-DanilaRubleuski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-alesik-91237b22a/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AndreiAlesik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-alesik-91237b22a/)
 
 ---
 
