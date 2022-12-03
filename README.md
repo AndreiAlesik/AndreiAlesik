@@ -2,10 +2,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an ambitious Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gdansk, Poland.
-
-- 🔭 I’m working as a Java Developer at Capgemini.
-- 🌱 I'm currently learning AWS, AI/ML and Blockchain.
+A progressive IT student of Poznan University of Technology with specialization in Computer Science and Telecommunication. Skilled in Java, SQL, Python and Datastructures (Sorting algorithms, Trees). My university experience has connected with realization of principles of OOP in assign projects, implementation of Data structures such as Binary Search Trees and AVL, and building request to database in SQL. Dealing with challenges in programming has taught me to find solutions even for the most complicated issues and never to give up. My further plan is to evolve my career as Java Software Engineer.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AndreiAlesik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-alesik-91237b22a/)
 
 ---
