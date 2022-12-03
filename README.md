@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p align="center"><img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/embed/iJWXxAr2Za6EtN2Row)" width="600" height="300"  /></p>
+<p align="center"><img src="https://giphy.com/gifs/JetBrains-jetbrains-intellij-idea-intellijidea-iJWXxAr2Za6EtN2Row" width="600" height="300"  /></p>
 
 <iframe src="https://giphy.com/embed/iJWXxAr2Za6EtN2Row" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JetBrains-jetbrains-intellij-idea-intellijidea-iJWXxAr2Za6EtN2Row">via GIPHY</a></p>
 
