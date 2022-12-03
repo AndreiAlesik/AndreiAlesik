@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-### :men_technologist: &nbsp;About Me :
+### 💻: &nbsp;About Me :
 
 A progressive IT student of Poznan University of Technology with specialization in Computer Science and Telecommunication. Skilled in Java, SQL, Python and Datastructures (Sorting algorithms, Trees). My university experience has connected with realization of principles of OOP in assign projects, implementation of Data structures such as Binary Search Trees and AVL, and building request to database in SQL. Dealing with challenges in programming has taught me to find solutions even for the most complicated issues and never to give up. My further plan is to evolve my career as Java Software Engineer.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AndreiAlesik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-alesik-91237b22a/)
