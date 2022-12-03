@@ -31,4 +31,4 @@ A progressive IT student of Poznan University of Technology with specialization 
 
 ---
 ### &nbsp; Contact with me:
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AndreiAlesik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-alesik-91237b22a/)
+- LinkedIn: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AndreiAlesik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-alesik-91237b22a/)
