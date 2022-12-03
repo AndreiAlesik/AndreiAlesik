@@ -33,4 +33,4 @@ A progressive IT student of Poznan University of Technology with specialization 
 ### &nbsp; Contact with me:
 - [LinkedIn](https://www.linkedin.com/in/andrei-alesik-91237b22a/)
 - E-mail: olesik.andrei@gmail.com
--Phone: +48506968539
+- Phone: +48 506 968 539
