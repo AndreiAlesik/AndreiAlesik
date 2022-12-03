@@ -11,7 +11,7 @@ A progressive IT student of Poznan University of Technology with specialization 
 
 <p>
 -Java<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="20" height="20"/>&nbsp;, Spring Framework
- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="20" height="20"/>&nbsp;, JDBC Oracle
+ <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="20" height="20"/>&nbsp;, JDBC
 </p>
 <p>
 -C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="20" height="20"/>&nbsp;, C++
@@ -29,8 +29,8 @@ A progressive IT student of Poznan University of Technology with specialization 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="20" height="20"/>&nbsp;
  </p>
  <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="20" height="20"/>&nbsp;
+-MySQL <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="20" height="20"/>&nbsp;, PostgreSQL
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="20" height="20"/>&nbsp;, Oracle SQL, PL-SQL
 
 
 
