@@ -2,7 +2,7 @@
 
 ###  &nbsp;About Me ✍️ :
 
-A progressive IT student of Poznan University of Technology with specialization in Computer Science and Telecommunication. Skilled in Java, SQL, Python and Datastructures (Sorting algorithms, Trees). My university experience has connected with realization of principles of OOP in assign projects, implementation of Data structures such as Binary Search Trees and AVL, and building request to database in SQL. Dealing with challenges in programming has taught me to find solutions even for the most complicated issues and never to give up. My further plan is to evolve my career as Java Backend Engineer.
+A progressive IT student of Poznan University of Technology with specialization in Computer Science and Telecommunication. Skilled in Java, SQL, Python and Datastructures (Sorting algorithms, Trees). My university experience has connected with realization of principles of OOP in assign projects, implementation of Data structures such as Binary Search Trees and AVL, and building request to database in SQL. My last biggest project was application, that called travel agency. In this app i've used technology's such as spring boot, rest api, DTO pattern, Hibernate, swagger and mapStruct. Dealing with challenges in programming has taught me to find solutions even for the most complicated issues and never to give up. My further plan is to evolve my career as Java Backend Engineer.
 
 
 ---
