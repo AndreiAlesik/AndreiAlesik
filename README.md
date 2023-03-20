@@ -14,7 +14,8 @@ A progressive IT student of Poznan University of Technology with specialization 
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="20" height="20"/>&nbsp;, Hibernate, Rest API
 </p>
 <p>
--C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="20" height="20"/>&nbsp;, C++
+-C# <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript React" alt="TypeScript" width="20" height="20"/>&nbsp;,
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="20" height="20"/>&nbsp;, C++
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="20" height="20"/>&nbsp;, C
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="20" height="20"/>&nbsp;
  </p>
