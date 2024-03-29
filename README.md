@@ -41,5 +41,3 @@ A progressive IT student of Poznan University of Technology with specialization 
 ### &nbsp; Contact with me:
 - Location: Poznan, Poland
 - [LinkedIn](https://www.linkedin.com/in/andrei-alesik-91237b22a/)
-- E-mail: olesik.andrei@gmail.com
-- Phone: +48 506 968 539
